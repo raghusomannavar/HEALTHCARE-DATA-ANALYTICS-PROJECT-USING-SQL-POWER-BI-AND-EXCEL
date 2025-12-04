@@ -1,0 +1,2 @@
+# HEALTHCARE-DATA-ANALYTICS-PROJECT-USING-SQL-POWER-BI-AND-EXCEL
+This project demonstrates an end-to-end Healthcare Data Analytics workflow using SQL Server and Power BI. The project focuses on analyzing patient, hospital, clinical, and financial data to generate meaningful business insights. The solution covers data cleaning, validation, KPI building, dashboard creation, and publishing for portfolio use.
